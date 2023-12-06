@@ -161,9 +161,9 @@ yat:
 
 # Page default value
 # defaults:
-#   home:
-#     heading: "Your awesome heading"
-#     subheading: "Your awesome subheading"
+   home:
+     heading: "De-Bloater DB 預裝軟體移除資料庫"
+     subheading: "移除你電腦中的預裝軟體，讓你變回電腦的主人"
 #     banner: "Your image url"
 
 # Banner default settings
