@@ -160,7 +160,7 @@ yat:
 #   - about.md
 
 # Page default value
-# defaults:
+defaults:
    home:
      heading: "De-Bloater DB 預裝軟體移除資料庫"
      subheading: "移除你電腦中的預裝軟體，讓你變回電腦的主人"
