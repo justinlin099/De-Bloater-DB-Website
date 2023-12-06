@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
-categories: markdown
-tags: [test]
+title: Laptop 13 (AMD Ryzen 7040Series)
+subtitle: Framework
+categories: Framework
+tags: [justin.lin099@gmail.com, 由 Justin Lin 提供]
 ---
 
 You can write regular [markdown](https://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
