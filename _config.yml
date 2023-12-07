@@ -73,8 +73,8 @@ yat:
 # If you want to change site language, you can set lang option
 # lang: "en"  # default lang is en
 
-Translate languges
-langs refer to https://cloud.google.com/translate/docs/languages
+#Translate languges
+#langs refer to https://cloud.google.com/translate/docs/languages
 translate_langs:
   - lang: zh-TW
     img: https://cdn.countryflags.com/thumbs/taiwan/flag-400.png
