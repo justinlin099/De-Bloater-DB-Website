@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: De-Bloater DB 預裝軟體移除資料庫
+title: De-Bloater DB 預裝軟體移除器 & 資料庫
 email: justin.lin099@gmail.com
 author: Justin Lin
 
@@ -160,7 +160,7 @@ translate_langs:
 # Page default value
 defaults:
    home:
-     heading: "De-Bloater DB 預裝軟體移除資料庫"
+     heading: "De-Bloater DB 預裝軟體移除器 & 資料庫"
      subheading: "移除你電腦中的預裝軟體，讓你變回電腦的主人"
      banner: "https://github.com/justinlin099/De-Bloater-DB-Website/assets/61717681/563a9a48-41f4-4402-989b-01c723272461"
 
