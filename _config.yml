@@ -161,7 +161,7 @@ translate_langs:
 defaults:
    home:
      heading: "De-Bloater DB 預裝軟體移除器 & 資料庫"
-     subheading: "移除你電腦中的預裝軟體，讓你變回電腦的主人\n貢獻你的掃描結果，幫助大家選擇電腦"
+     subheading: "移除你電腦中的預裝軟體，讓你變回電腦的主人<br>貢獻你的掃描結果，幫助大家選擇電腦"
      banner: "https://github.com/justinlin099/De-Bloater-DB-Website/assets/61717681/563a9a48-41f4-4402-989b-01c723272461"
 
 # Banner default settings
