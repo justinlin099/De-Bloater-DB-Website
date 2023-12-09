@@ -16,7 +16,7 @@
 </h4>
 
 <p align="center">
-  <a href="[https://jeffreytse.github.io/jekyll-theme-yat](https://debloaterdb.justinl.in)">
+  <a href="https://debloaterdb.justinl.in">
     <img src="https://github.com/jeffreytse/jekyll-theme-yat/workflows/Github%20Pages/badge.svg"
       alt="Github Pages" />
   </a>
