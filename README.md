@@ -58,10 +58,9 @@
 </div>
 -->
 
-<br>
-
 <p align="center">
-An website as database of softwares that was detected by De-Bloater DB
+An website with jekyll theme as a database of softwares that was detected by De-Bloater DB<br>
+Using <a href="https://github.com/jeffreytse/jekyll-theme-yat">JEKYLL YAT THEME</a>
 </p>
 
 ## Features
