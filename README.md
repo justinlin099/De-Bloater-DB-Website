@@ -16,14 +16,9 @@
 </h4>
 
 <p align="center">
-  <a href="https://jeffreytse.github.io/jekyll-theme-yat">
+  <a href="[https://jeffreytse.github.io/jekyll-theme-yat](https://debloaterdb.justinl.in)">
     <img src="https://github.com/jeffreytse/jekyll-theme-yat/workflows/Github%20Pages/badge.svg"
       alt="Github Pages" />
-  </a>
-
-  <a href="https://badge.fury.io/rb/jekyll-theme-yat">
-    <img src="https://badge.fury.io/rb/jekyll-theme-yat.svg"
-      alt="Gem Version" />
   </a>
 
   <a href="https://opensource.org/licenses/MIT">
