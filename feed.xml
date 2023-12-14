@@ -1,0 +1,1561 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/jekyll-theme-yat/feed.xml" rel="self" type="application/atom+xml" /><link href="/jekyll-theme-yat/" rel="alternate" type="text/html" /><updated>2023-12-14T02:32:54+00:00</updated><id>/jekyll-theme-yat/feed.xml</id><title type="html">De-Bloater DB 預裝軟體移除器 &amp;amp; 資料庫</title><subtitle>掃描並移除你電腦上的預裝軟體，並且貢獻你的掃描結果作為大家購買電腦時的參考。</subtitle><author><name>Justin Lin</name></author><entry><title type="html">Nitro AN515-54-56ML</title><link href="/jekyll-theme-yat/acer/2023/12/13/104730-justin.lin099@gmail.com.html" rel="alternate" type="text/html" title="Nitro AN515-54-56ML" /><published>2023-12-13T00:00:00+00:00</published><updated>2023-12-13T00:00:00+00:00</updated><id>/jekyll-theme-yat/acer/2023/12/13/104730-justin.lin099@gmail.com</id><content type="html" xml:base="/jekyll-theme-yat/acer/2023/12/13/104730-justin.lin099@gmail.com.html"><![CDATA[<h2>總分：<font color="orange">67</font>/100</h2>
+
+<h2 id="硬體資訊">硬體資訊</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">項目</th>
+      <th style="text-align: left">資訊</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">製造商</td>
+      <td style="text-align: left">Acer</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">電腦型號</td>
+      <td style="text-align: left">Nitro AN515-54-56ML</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">中央處理器</td>
+      <td style="text-align: left">Intel Core i5-9400H</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">處理器核心</td>
+      <td style="text-align: left">6 Cores/ 6 Threads</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">系統記憶體</td>
+      <td style="text-align: left">16GB DDR4 3200MHz</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">圖形處理器</td>
+      <td style="text-align: left">NVIDIA GeForce RTX2060 6.0GB</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">硬碟存儲器</td>
+      <td style="text-align: left">ADATA SX6000LNP</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">作業系統</td>
+      <td style="text-align: left">Microsoft Windows 10 Home</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">安裝日期</td>
+      <td style="text-align: left">2023年12月14日 01:56:42</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">BIOS</td>
+      <td style="text-align: left">v8.10 (American Megatrends International, LLC.)</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="電腦製造商預裝軟體">電腦製造商預裝軟體</h2>
+<h4 id="norton-security">Norton Security</h4>
+<blockquote>
+  <p>Symantec<br />
+評分： 🔴🔴🔴🔴🔴<br />
+描述：Norton 是一套防毒軟體，但是在 Windows 上已經有內建 Windows Defender，因此不需要額外安裝防毒軟體。安裝 Norton 會影響電腦的效能。</p>
+</blockquote>
+
+<h4 id="realtekaudiocontrol">RealtekAudioControl</h4>
+<blockquote>
+  <p>RealtekSemiconductorCorp<br />
+評分： ⚪⚪⚪⚪⚪<br />
+描述：電腦上所使用的瑞昱音效卡的必要軟體，刪除將會無法控制音訊的輸入輸出功能，且該程式沒有廣告或是占用過多資源的疑慮。</p>
+</blockquote>
+
+<h4 id="killer-control-center">Killer Control Center</h4>
+<blockquote>
+  <p>RivetNetworks<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：Killer 網路卡的控制軟體，可以設定網卡的優先選項，移除後不影響正常運作。</p>
+</blockquote>
+
+<h4 id="intel-optane-memory-and-storage-management">Intel Optane Memory and Storage Management</h4>
+<blockquote>
+  <p>AppUp<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：Intel 筆電的硬碟管理軟體，大部分使用者不會用到，建議移除</p>
+</blockquote>
+
+<h4 id="acer-care-center">Acer Care Center</h4>
+<blockquote>
+  <p>AcerIncorporated<br />
+評分： ⚪⚪⚪⚪⚪<br />
+描述：Acer Care Center</p>
+</blockquote>
+
+<h4 id="acer-registration">Acer Registration</h4>
+<blockquote>
+  <p>AcerIncorporated<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：Acer Registration, You can remove it once you have registered your warranty</p>
+</blockquote>
+
+<h4 id="nitro-sense">Nitro Sense</h4>
+<blockquote>
+  <p>AcerIncorporated<br />
+評分： ⚪⚪⚪⚪⚪<br />
+描述：Control Panel for your Acer Nitro Laptop</p>
+</blockquote>
+
+<h4 id="acer-quick-access">Acer Quick Access</h4>
+<blockquote>
+  <p>AcerIncorporated<br />
+評分： ⚪⚪⚪⚪⚪<br />
+描述：Some settings for your acer laptop</p>
+</blockquote>
+
+<h4 id="user-experience-improvement-program">User Experience Improvement Program</h4>
+<blockquote>
+  <p>AcerIncorporated<br />
+評分： 🔴🔴🔴⚪⚪<br />
+描述：Acer’s program to collect your usage data, it is recommend to remove it.</p>
+</blockquote>
+
+<h4 id="intel-graphics-control-panel">Intel Graphics Control Panel</h4>
+<blockquote>
+  <p>AppUp<br />
+評分： ⚪⚪⚪⚪⚪<br />
+描述：Intel Graphics Control Panel, please keep it to make your laptop function correctly.</p>
+</blockquote>
+
+<h4 id="3">3</h4>
+<blockquote>
+  <p>CyberLinkCorp<br />
+評分： 🔴🔴🔴⚪⚪<br />
+描述：Adware from cyberlink installed by acer</p>
+</blockquote>
+
+<h4 id="powerdirector-for-acer">PowerDirector for Acer</h4>
+<blockquote>
+  <p>CyberLinkCorp<br />
+評分： 🔴🔴🔴⚪⚪<br />
+描述：Adware from cyberlink installed by acer</p>
+</blockquote>
+
+<h4 id="messenger">Messenger</h4>
+<blockquote>
+  <p>FACEBOOK<br />
+評分： 🔴🔴🔴⚪⚪<br />
+描述：Messenger installed by acer, you can remove it.</p>
+</blockquote>
+
+<h4 id="3-1">3</h4>
+<blockquote>
+  <p>GOTrustTechnologyInc<br />
+評分： 🔴🔴🔴⚪⚪<br />
+描述：Password manager adware installed by acer</p>
+</blockquote>
+
+<h4 id="wave-maxxaudio">Wave MaxxAudio</h4>
+<blockquote>
+  <p>WavesAudio<br />
+評分： ⚪⚪⚪⚪⚪<br />
+描述：Audio control panel for some acer laptops, you can keep it.</p>
+</blockquote>
+
+<h4 id="app-explorer">App Explorer</h4>
+<blockquote>
+  <p>SweetLabs Inc.<br />
+評分： 🔴🔴🔴🔴🔴<br />
+描述：Acer 預裝的廣告軟體程式。</p>
+</blockquote>
+
+<h4 id="planet9-link">Planet9 Link</h4>
+<blockquote>
+  <p>Acer.<br />
+評分： 🔴🔴🔴🔴🔴<br />
+描述：Acer 預裝的廣告軟體程式。</p>
+</blockquote>
+
+<h2 id="microsoft-預裝軟體">Microsoft 預裝軟體</h2>
+<h4 id="cortana">Cortana</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴🔴🔴⚪⚪<br />
+描述：微軟的內建語音助理，繁體中文無法使用且會占用硬碟空間。</p>
+</blockquote>
+
+<h4 id="微軟接龍">微軟接龍</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴🔴🔴⚪⚪<br />
+描述：預裝的接龍遊戲，內部有廣告及付費選項，如果想要玩接龍可以下載 Win7 的舊版接龍，體驗較順暢且無廣告</p>
+</blockquote>
+
+<h4 id="microsoft-office-hub">Microsoft Office Hub</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：不需要用到的軟體，內部只是提供你付費購買 Office 365 的連結，並不具備 Office 本身的功能，不需要可以移除以節省硬碟空間。</p>
+</blockquote>
+
+<h4 id="microsoft-edge">Microsoft Edge</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：Windows 內建的瀏覽器下載軟體。(無法移除為正常現象)</p>
+</blockquote>
+
+<h4 id="mixed-reality-portal">Mixed Reality Portal</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴🔴⚪⚪⚪<br />
+描述：微軟的 MR 軟體，大部分人用不到，可以進行移除，</p>
+</blockquote>
+
+<h4 id="onenote">OneNote</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：微軟的預裝筆記軟體，用不到可以進行移除。</p>
+</blockquote>
+
+<h4 id="skype">Skype</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：內建的視訊通話軟體，用不到可以進行移除。</p>
+</blockquote>
+
+<h4 id="wallet">Wallet</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴🔴🔴⚪⚪<br />
+描述：WTF is this?</p>
+</blockquote>]]></content><author><name>由 Justin Lin 上傳</name></author><category term="Acer" /><category term="justin.lin099@gmail.com" /><summary type="html"><![CDATA[總分：67/100]]></summary></entry><entry><title type="html">Laptop 13 (AMD Ryzen 7040Series)</title><link href="/jekyll-theme-yat/framework/2023/12/10/022018-justin.lin099@gmail.com.html" rel="alternate" type="text/html" title="Laptop 13 (AMD Ryzen 7040Series)" /><published>2023-12-10T00:00:00+00:00</published><updated>2023-12-10T00:00:00+00:00</updated><id>/jekyll-theme-yat/framework/2023/12/10/022018-justin.lin099@gmail.com</id><content type="html" xml:base="/jekyll-theme-yat/framework/2023/12/10/022018-justin.lin099@gmail.com.html"><![CDATA[<h2>總分：<font color="green">100</font>/100</h2>
+
+<h2 id="硬體資訊">硬體資訊</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">項目</th>
+      <th style="text-align: left">資訊</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">製造商</td>
+      <td style="text-align: left">Framework</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">電腦型號</td>
+      <td style="text-align: left">Laptop 13 (AMD Ryzen 7040Series)</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">中央處理器</td>
+      <td style="text-align: left">AMD Ryzen 7 7840U w/ Radeon  780M Graphics</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">處理器核心</td>
+      <td style="text-align: left">8 Cores/ 16 Threads</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">系統記憶體</td>
+      <td style="text-align: left">96GB DDR5 5600MHz</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">圖形處理器</td>
+      <td style="text-align: left">AMD Radeon(TM) 780M 4.0GB</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">硬碟存儲器</td>
+      <td style="text-align: left">TEAM TM8FPD002T</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">作業系統</td>
+      <td style="text-align: left">Microsoft Windows 11 專業版</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">安裝日期</td>
+      <td style="text-align: left">2023年12月09日 13:51:17</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">BIOS</td>
+      <td style="text-align: left">v03.03 (INSYDE Corp.)</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="電腦製造商預裝軟體">電腦製造商預裝軟體</h2>
+<h4 id="amd-radeon-software">AMD Radeon Software</h4>
+<blockquote>
+  <p>AdvancedMicroDevicesInc-2<br />
+評分： ⚪⚪⚪⚪⚪<br />
+描述：AMD 顯示卡的必要軟體，如果沒有安裝將無法正常調整顯示設定。</p>
+</blockquote>
+
+<h4 id="realtekaudiocontrol">RealtekAudioControl</h4>
+<blockquote>
+  <p>RealtekSemiconductorCorp<br />
+評分： ⚪⚪⚪⚪⚪<br />
+描述：電腦上所使用的瑞昱音效卡的必要軟體，刪除將會無法控制音訊的輸入輸出功能，且該程式沒有廣告或是占用過多資源的疑慮。</p>
+</blockquote>
+
+<h2 id="microsoft-預裝軟體">Microsoft 預裝軟體</h2>
+<h4 id="cortana">Cortana</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴🔴🔴⚪⚪<br />
+描述：微軟的內建語音助理，繁體中文無法使用且會占用硬碟空間。</p>
+</blockquote>
+
+<h4 id="microsoft-todos">Microsoft Todos</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：微軟的備忘錄軟體，不需要可以移除節省硬碟空間</p>
+</blockquote>
+
+<h4 id="微軟接龍">微軟接龍</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴🔴🔴⚪⚪<br />
+描述：預裝的接龍遊戲，內部有廣告及付費選項，如果想要玩接龍可以下載 Win7 的舊版接龍，體驗較順暢且無廣告</p>
+</blockquote>
+
+<h4 id="microsoft-office-hub">Microsoft Office Hub</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：不需要用到的軟體，內部只是提供你付費購買 Office 365 的連結，並不具備 Office 本身的功能，不需要可以移除以節省硬碟空間。</p>
+</blockquote>
+
+<h4 id="clipchamp">Clipchamp</h4>
+<blockquote>
+  <p>Clipchamp<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：微軟收購的影片剪輯軟體，且內部有付費選項，功能也較陽春，如果不需要可以移除節省硬碟空間</p>
+</blockquote>
+
+<h4 id="outlook-for-windows">Outlook for Windows</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：Windows 內建的電子郵件收發軟體，不需要使用的話可以移除以節省硬碟空間。</p>
+</blockquote>
+
+<h4 id="spotify">Spotify</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴🔴⚪⚪⚪<br />
+描述：Windows 預裝的廣告軟體，建議移除。</p>
+</blockquote>]]></content><author><name>由 Justin Lin 上傳</name></author><category term="Framework" /><category term="justin.lin099@gmail.com" /><summary type="html"><![CDATA[總分：100/100]]></summary></entry><entry><title type="html">Modern 14 B4MW</title><link href="/jekyll-theme-yat/msi/2023/12/10/134107-justin.lin099@gmail.com.html" rel="alternate" type="text/html" title="Modern 14 B4MW" /><published>2023-12-10T00:00:00+00:00</published><updated>2023-12-10T00:00:00+00:00</updated><id>/jekyll-theme-yat/msi/2023/12/10/134107-justin.lin099@gmail.com</id><content type="html" xml:base="/jekyll-theme-yat/msi/2023/12/10/134107-justin.lin099@gmail.com.html"><![CDATA[<h2>總分：<font color="orange">77</font>/100</h2>
+
+<h2 id="硬體資訊">硬體資訊</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">項目</th>
+      <th style="text-align: left">資訊</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">製造商</td>
+      <td style="text-align: left">Micro-Star International Co., Ltd.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">電腦型號</td>
+      <td style="text-align: left">Modern 14 B4MW</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">中央處理器</td>
+      <td style="text-align: left">AMD Ryzen 5 4500U with Radeon Graphics</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">處理器核心</td>
+      <td style="text-align: left">6 Cores/ 6 Threads</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">系統記憶體</td>
+      <td style="text-align: left">32GB DDR4 3200MHz</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">圖形處理器</td>
+      <td style="text-align: left">AMD Radeon(TM) Graphics 4.0GB</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">硬碟存儲器</td>
+      <td style="text-align: left">ADATA SX8200PNP</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">作業系統</td>
+      <td style="text-align: left">Microsoft Windows 10 家用版</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">安裝日期</td>
+      <td style="text-align: left">2023年12月10日 13:26:53</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">BIOS</td>
+      <td style="text-align: left">vE14DKAMS.115 (American Megatrends Inc.)</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="電腦製造商預裝軟體">電腦製造商預裝軟體</h2>
+<h4 id="norton-security">Norton Security</h4>
+<blockquote>
+  <p>Symantec<br />
+評分： 🔴🔴🔴🔴🔴<br />
+描述：Norton 是一套防毒軟體，但是在 Windows 上已經有內建 Windows Defender，因此不需要額外安裝防毒軟體。安裝 Norton 會影響電腦的效能。</p>
+</blockquote>
+
+<h4 id="msi-creator-center">MSI Creator Center</h4>
+<blockquote>
+  <p>MSI<br />
+評分： ⚪⚪⚪⚪⚪<br />
+描述：MSI 筆電用的控制軟體，解除安裝會導致筆電無法調整風扇轉速及電源模式或是其他筆電功能，影響散熱及效能。</p>
+</blockquote>
+
+<h4 id="audiodirector-essential-for-msi">AudioDirector essential for MSI</h4>
+<blockquote>
+  <p>CyberLink<br />
+評分： 🔴🔴🔴⚪⚪<br />
+描述：MSI 筆電內附的音樂剪輯軟體，但是是試用版，如果要使用完整功能的話需要付費購買。安裝在電腦上不會影響效能，但是會佔用空間。如果不需要可以進行移除。</p>
+</blockquote>
+
+<h4 id="colordirector-essential-for-msi">ColorDirector essential for MSI</h4>
+<blockquote>
+  <p>CyberLink<br />
+評分： 🔴🔴🔴⚪⚪<br />
+描述：MSI 筆電內附的修圖軟體，但是是試用版，如果要使用完整功能的話需要付費購買。安裝在電腦上不會影響效能，但是會佔用空間。如果不需要可以進行移除。</p>
+</blockquote>
+
+<h4 id="powerdirector-17-essential-for-msi">PowerDirector 17 essential for MSI</h4>
+<blockquote>
+  <p>CyberLink<br />
+評分： 🔴🔴🔴⚪⚪<br />
+描述：MSI 筆電內附的影片剪輯軟體，但是是試用版，如果要使用完整功能的話需要付費購買。安裝在電腦上不會影響效能，但是會佔用空間。如果不需要可以進行移除。</p>
+</blockquote>
+
+<h4 id="amd-radeon-software">AMD Radeon Software</h4>
+<blockquote>
+  <p>AdvancedMicroDevicesInc-2<br />
+評分： ⚪⚪⚪⚪⚪<br />
+描述：AMD 顯示卡的必要軟體，如果沒有安裝將無法正常調整顯示設定。</p>
+</blockquote>
+
+<h4 id="realtekaudiocontrol">RealtekAudioControl</h4>
+<blockquote>
+  <p>RealtekSemiconductorCorp<br />
+評分： ⚪⚪⚪⚪⚪<br />
+描述：電腦上所使用的瑞昱音效卡的必要軟體，刪除將會無法控制音訊的輸入輸出功能，且該程式沒有廣告或是占用過多資源的疑慮。</p>
+</blockquote>
+
+<h4 id="linkedin-for-windows">LinkedIn for Windows</h4>
+<blockquote>
+  <p>7EE7776C<br />
+評分： 🔴🔴🔴⚪⚪<br />
+描述：不必要的廣告程式，可以移除增加硬碟空間。</p>
+</blockquote>
+
+<h4 id="photodirector-10-essential-for-msi">PhotoDirector 10 Essential for MSI</h4>
+<blockquote>
+  <p>CyberLink<br />
+評分： 🔴🔴🔴⚪⚪<br />
+描述：微星筆電內建的圖片編輯軟體。</p>
+</blockquote>
+
+<h4 id="magix-music-maker-jam">MAGIX Music Maker Jam</h4>
+<blockquote>
+  <p>MAGIX<br />
+評分： 🔴🔴🔴⚪⚪<br />
+描述：微星筆電內建的音樂製作廣告軟體，不須使用可以移除。</p>
+</blockquote>
+
+<h4 id="nahimic">Nahimic</h4>
+<blockquote>
+  <p>A-Volute<br />
+評分： ⚪⚪⚪⚪⚪<br />
+描述：Nahimic 音效控制軟體，建議保留。</p>
+</blockquote>
+
+<h2 id="microsoft-預裝軟體">Microsoft 預裝軟體</h2>
+<h4 id="微軟接龍">微軟接龍</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴🔴🔴⚪⚪<br />
+描述：預裝的接龍遊戲，內部有廣告及付費選項，如果想要玩接龍可以下載 Win7 的舊版接龍，體驗較順暢且無廣告</p>
+</blockquote>
+
+<h4 id="microsoft-office-hub">Microsoft Office Hub</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：不需要用到的軟體，內部只是提供你付費購買 Office 365 的連結，並不具備 Office 本身的功能，不需要可以移除以節省硬碟空間。</p>
+</blockquote>
+
+<h4 id="bing-翻譯">Bing 翻譯</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：Windows 內建的翻譯軟體，不需使用可進行移除節省空間。</p>
+</blockquote>
+
+<h4 id="microsoft-edge">Microsoft Edge</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：Windows 內建的瀏覽器下載軟體。(無法移除為正常現象)</p>
+</blockquote>
+
+<h4 id="cortana">Cortana</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：微軟的語音助理，繁體中文無法使用，建議移除。(有時無法移除為正常現象)</p>
+</blockquote>
+
+<h4 id="數獨">數獨</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴🔴🔴⚪⚪<br />
+描述：微軟內建的數獨遊戲，有遊戲內付費，如果無需使用可以移除。</p>
+</blockquote>
+
+<h4 id="mixed-reality-portal">Mixed Reality Portal</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴🔴⚪⚪⚪<br />
+描述：微軟的 MR 軟體，大部分人用不到，可以進行移除，</p>
+</blockquote>
+
+<h4 id="onenote">OneNote</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：微軟的預裝筆記軟體，用不到可以進行移除。</p>
+</blockquote>
+
+<h4 id="print-3d">Print 3D</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：內建的 3D 列印軟體，用不到可以進行移除。</p>
+</blockquote>
+
+<h4 id="skype">Skype</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：內建的視訊通話軟體，用不到可以進行移除。</p>
+</blockquote>
+
+<h4 id="word-game">Word Game</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：微軟的文字遊戲，玩不到可以進行移除。</p>
+</blockquote>
+
+<h4 id="wallet">Wallet</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴🔴🔴⚪⚪<br />
+描述：WTF is this?</p>
+</blockquote>
+
+<h4 id="微軟廣告模組">微軟廣告模組</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴🔴🔴⚪⚪<br />
+描述：微軟廣告模組(無法移除為正常現象)</p>
+</blockquote>]]></content><author><name>由 Justin Lin 上傳</name></author><category term="MSI" /><category term="justin.lin099@gmail.com" /><summary type="html"><![CDATA[總分：77/100]]></summary></entry><entry><title type="html">HP Pavilion Laptop 15-cs3xxx</title><link href="/jekyll-theme-yat/hp/2023/12/10/170553-aq6913976@gmail.com.html" rel="alternate" type="text/html" title="HP Pavilion Laptop 15-cs3xxx" /><published>2023-12-10T00:00:00+00:00</published><updated>2023-12-10T00:00:00+00:00</updated><id>/jekyll-theme-yat/hp/2023/12/10/170553-aq6913976@gmail.com</id><content type="html" xml:base="/jekyll-theme-yat/hp/2023/12/10/170553-aq6913976@gmail.com.html"><![CDATA[<h2>總分：<font color="red">42</font>/100</h2>
+
+<h2 id="硬體資訊">硬體資訊</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">項目</th>
+      <th style="text-align: left">資訊</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">製造商</td>
+      <td style="text-align: left">HP</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">電腦型號</td>
+      <td style="text-align: left">HP Pavilion Laptop 15-cs3xxx</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">中央處理器</td>
+      <td style="text-align: left">Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">處理器核心</td>
+      <td style="text-align: left">4 Cores/ 8 Threads</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">系統記憶體</td>
+      <td style="text-align: left">8GB DDR4 2667MHz</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">圖形處理器</td>
+      <td style="text-align: left">Intel(R) UHD Graphics 1.0GB</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">硬碟存儲器</td>
+      <td style="text-align: left">SAMSUNG MZVLQ256HAJD-000H1</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">作業系統</td>
+      <td style="text-align: left">Microsoft Windows 11 Home</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">安裝日期</td>
+      <td style="text-align: left">2023年12月09日 05:06:04</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">BIOS</td>
+      <td style="text-align: left">vF.06 (Insyde)</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="電腦製造商預裝軟體">電腦製造商預裝軟體</h2>
+<h4 id="intel-顯示控制面板">Intel 顯示控制面板</h4>
+<blockquote>
+  <p>AppUp<br />
+評分： ⚪⚪⚪⚪⚪<br />
+描述：使用 Intel 顯卡需要的控制面板，移除會導致無法調整設定。</p>
+</blockquote>
+
+<h4 id="microsoft-teams">Microsoft Teams</h4>
+<blockquote>
+  <p>MicrosoftTeams<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：微軟的視訊會議軟體，不須使用可以進行移除。</p>
+</blockquote>
+
+<h4 id="mcafee-security">McAfee Security</h4>
+<blockquote>
+  <p>5A894077<br />
+評分： 🔴🔴🔴🔴🔴<br />
+描述：華碩筆電預裝的防毒軟體，會占用系統資源，且 Windows 內建的 Windows Defender 已經足夠使用，不需要額外安裝防毒軟體。</p>
+</blockquote>
+
+<h4 id="mcafee-livesafe">McAfee LiveSafe</h4>
+<blockquote>
+  <p>McAfee<br />
+評分： 🔴🔴🔴🔴🔴<br />
+描述：McAfee 防毒軟體，通常由你的電腦製造商裝入你的電腦。且 Windows 內已經有安裝防毒軟體，不需要另外安裝其他軟體，並且試用期過後還要另外付費購買，還會造成系統資源的佔用。</p>
+</blockquote>
+
+<h4 id="mcafee-webadvisor">McAfee WebAdvisor</h4>
+<blockquote>
+  <p>McAfee<br />
+評分： 🔴🔴🔴🔴🔴<br />
+描述：McAfee 瀏覽器防毒軟體，通常由你的電腦製造商裝入你的電腦。且 Windows 內已經有安裝防毒軟體，不需要另外安裝其他軟體，並且試用期過後還要另外付費購買，還會造成系統資源的佔用。</p>
+</blockquote>
+
+<h4 id="simple-solitare">Simple Solitare</h4>
+<blockquote>
+  <p>26720RandomSaladGamesLLC<br />
+評分： 🔴🔴🔴⚪⚪<br />
+描述：HP 內建的接龍遊戲，不需要可移除</p>
+</blockquote>
+
+<h4 id="netflix">Netflix</h4>
+<blockquote>
+  <p>4DF9E0F8<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：筆電預裝的 Netflix 軟體，有可能由使用者自行安裝，常見於 HP 筆電上，不需要可以進行移除。</p>
+</blockquote>
+
+<h4 id="bo-audio-control">B&amp;O Audio Control</h4>
+<blockquote>
+  <p>AD2F1837<br />
+評分： ⚪⚪⚪⚪⚪<br />
+描述：HP 筆電與 B&amp;O 合作的音訊控制軟體，移除會造成無法使用筆電的部分音效功能，建議保留。</p>
+</blockquote>
+
+<h4 id="hp-coolsense">HP CoolSense</h4>
+<blockquote>
+  <p>AD2F1837<br />
+評分： ⚪⚪⚪⚪⚪<br />
+描述：HP 的風扇控制軟體，建議保留體</p>
+</blockquote>
+
+<h4 id="hp-energystar">HP EnergyStar</h4>
+<blockquote>
+  <p>AD2F1837<br />
+評分： 🔴🔴⚪⚪⚪<br />
+描述：HP Energy Star 的廣告程式，只有連結到能源之星官網的功能，完全無用，可以進行移除。</p>
+</blockquote>
+
+<h4 id="hp-硬體檢測">HP 硬體檢測</h4>
+<blockquote>
+  <p>AD2F1837<br />
+評分： ⚪⚪⚪⚪⚪<br />
+描述：HP 的筆電硬體檢測軟體。</p>
+</blockquote>
+
+<h4 id="hp-printer-control">HP Printer Control</h4>
+<blockquote>
+  <p>AD2F1837<br />
+評分： 🔴🔴🔴⚪⚪<br />
+描述：HP 的印表機控制程式，如果用的不是 HP 的印表機的話建議移除，可以節省硬碟空間。</p>
+</blockquote>
+
+<h4 id="hp-privacy-settings">HP Privacy Settings</h4>
+<blockquote>
+  <p>AD2F1837<br />
+評分： 🔴🔴🔴⚪⚪<br />
+描述：HP 的隱私權設定，會決定是否分享電腦的資訊給 HP，極度沒有必要，建議移除。</p>
+</blockquote>
+
+<h4 id="hp-supportassistant">HP SupportAssistant</h4>
+<blockquote>
+  <p>AD2F1837<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：HP 的支援應用程式，內含驅動程式更新功能，但是會占用較多記憶體，電腦效能較低者建議移除。</p>
+</blockquote>
+
+<h4 id="intel-optane-memory-and-storage-management">Intel Optane Memory and Storage Management</h4>
+<blockquote>
+  <p>AppUp<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：Intel 筆電的硬碟管理軟體，大部分使用者不會用到，建議移除</p>
+</blockquote>
+
+<h4 id="dropbox">Dropbox</h4>
+<blockquote>
+  <p>C27EB4BA<br />
+評分： 🔴🔴🔴⚪⚪<br />
+描述：HP 內建的 Dropbox 廣告程式，建議移除。</p>
+</blockquote>
+
+<h4 id="elan-觸控板設定">ELAN 觸控板設定</h4>
+<blockquote>
+  <p>ELANMicroelectronicsCorpo<br />
+評分： ⚪⚪⚪⚪⚪<br />
+描述：筆電內建的觸控板設定程式，建議保留。</p>
+</blockquote>
+
+<h4 id="bookingcom">Booking.com</h4>
+<blockquote>
+  <p>PricelinePartnerNetwork<br />
+評分： 🔴🔴⚪⚪⚪<br />
+描述：HP 預裝的 Booking.com 廣告程式，建議移除。</p>
+</blockquote>
+
+<h4 id="wild-tangent-games">Wild Tangent Games</h4>
+<blockquote>
+  <p>WildTangentGames<br />
+評分： 🔴🔴🔴⚪⚪<br />
+描述：HP 或 Acer 或 Asus 預裝的廣告程式，建議移除。</p>
+</blockquote>
+
+<h4 id="hp-system-event-utility">HP System Event Utility</h4>
+<blockquote>
+  <p>AD2F1837<br />
+評分： ⚪⚪⚪⚪⚪<br />
+描述：HP 系統預裝軟體，建議保留。</p>
+</blockquote>
+
+<h4 id="hp-jumpstarts">HP JumpStarts</h4>
+<blockquote>
+  <p>AD2F1837<br />
+評分： 🔴🔴🔴⚪⚪<br />
+描述：HP 的電腦新手教學應用程式，不需要用到的話建議移除。</p>
+</blockquote>
+
+<h4 id="roomadjustment">RoomAdjustment</h4>
+<blockquote>
+  <p>RoomAdjustment<br />
+評分： 🔴🔴⚪⚪⚪<br />
+描述：微軟預裝軟體，建議移除。</p>
+</blockquote>
+
+<h4 id="microsoft-whatsnew">Microsoft WhatsNew?</h4>
+<blockquote>
+  <p>WhatsNew<br />
+評分： 🔴🔴🔴⚪⚪<br />
+描述：微軟預裝程式，建議移除。</p>
+</blockquote>
+
+<h4 id="microsoft-holocamera">Microsoft HoloCamera</h4>
+<blockquote>
+  <p>HoloCamera<br />
+評分： 🔴🔴🔴⚪⚪<br />
+描述：Microsoft HoloCamera 預裝軟體，建議移除。</p>
+</blockquote>
+
+<h4 id="microsoft-holo-item-player-app">Microsoft Holo Item Player App</h4>
+<blockquote>
+  <p>HoloItemPlayerApp<br />
+評分： 🔴🔴🔴⚪⚪<br />
+描述：微軟 Hololens 相關軟體，用不到建議移除。</p>
+</blockquote>
+
+<h4 id="microsoft-holoshell">Microsoft HoloShell</h4>
+<blockquote>
+  <p>HoloShell<br />
+評分： 🔴🔴🔴⚪⚪<br />
+描述：微軟 Hololens 相關軟體，用不到建議移除。</p>
+</blockquote>
+
+<h4 id="microsoft-mixed-reality-learning">Microsoft Mixed Reality Learning</h4>
+<blockquote>
+  <p>MixedRealityLearning<br />
+評分： 🔴🔴🔴⚪⚪<br />
+描述：微軟虛擬實境相關軟體，建議移除。</p>
+</blockquote>
+
+<h4 id="wildtagent-遊戲">WildTagent 遊戲</h4>
+<blockquote>
+  <p>WildTangent<br />
+評分： 🔴🔴🔴⚪⚪<br />
+描述：HP 或 Acer 或 Asus 預裝的廣告遊戲軟體，建議移除。</p>
+</blockquote>
+
+<h2 id="microsoft-預裝軟體">Microsoft 預裝軟體</h2>
+<h4 id="cortana">Cortana</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴🔴🔴⚪⚪<br />
+描述：微軟的內建語音助理，繁體中文無法使用且會占用硬碟空間。</p>
+</blockquote>
+
+<h4 id="microsoft-todos">Microsoft Todos</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：微軟的備忘錄軟體，不需要可以移除節省硬碟空間</p>
+</blockquote>
+
+<h4 id="微軟接龍">微軟接龍</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴🔴🔴⚪⚪<br />
+描述：預裝的接龍遊戲，內部有廣告及付費選項，如果想要玩接龍可以下載 Win7 的舊版接龍，體驗較順暢且無廣告</p>
+</blockquote>
+
+<h4 id="microsoft-office-hub">Microsoft Office Hub</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：不需要用到的軟體，內部只是提供你付費購買 Office 365 的連結，並不具備 Office 本身的功能，不需要可以移除以節省硬碟空間。</p>
+</blockquote>
+
+<h4 id="clipchamp">Clipchamp</h4>
+<blockquote>
+  <p>Clipchamp<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：微軟收購的影片剪輯軟體，且內部有付費選項，功能也較陽春，如果不需要可以移除節省硬碟空間</p>
+</blockquote>
+
+<h4 id="mixed-reality-portal">Mixed Reality Portal</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴🔴⚪⚪⚪<br />
+描述：微軟的 MR 軟體，大部分人用不到，可以進行移除，</p>
+</blockquote>
+
+<h4 id="onenote">OneNote</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：微軟的預裝筆記軟體，用不到可以進行移除。</p>
+</blockquote>
+
+<h4 id="print-3d">Print 3D</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：內建的 3D 列印軟體，用不到可以進行移除。</p>
+</blockquote>
+
+<h4 id="skype">Skype</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：內建的視訊通話軟體，用不到可以進行移除。</p>
+</blockquote>
+
+<h4 id="microsoft-messaging">Microsoft Messaging</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：微軟的訊息傳送程式，用不到可以移除</p>
+</blockquote>
+
+<h4 id="microsoft-oneconnect">Microsoft OneConnect</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴🔴🔴⚪⚪<br />
+描述：微軟的付費熱點應用程式，建議移除。</p>
+</blockquote>]]></content><author><name>由 王育丞 上傳</name></author><category term="HP" /><category term="aq6913976@gmail.com" /><summary type="html"><![CDATA[總分：42/100]]></summary></entry><entry><title type="html">VivoBook_ASUSLaptop X513EQ_S513EQ</title><link href="/jekyll-theme-yat/asus/2023/12/10/181158-zheng990023@gmail.com.html" rel="alternate" type="text/html" title="VivoBook_ASUSLaptop X513EQ_S513EQ" /><published>2023-12-10T00:00:00+00:00</published><updated>2023-12-10T00:00:00+00:00</updated><id>/jekyll-theme-yat/asus/2023/12/10/181158-zheng990023@gmail.com</id><content type="html" xml:base="/jekyll-theme-yat/asus/2023/12/10/181158-zheng990023@gmail.com.html"><![CDATA[<h2>總分：<font color="orange">84</font>/100</h2>
+
+<h2 id="硬體資訊">硬體資訊</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">項目</th>
+      <th style="text-align: left">資訊</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">製造商</td>
+      <td style="text-align: left">ASUSTek COMPUTER INC.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">電腦型號</td>
+      <td style="text-align: left">VivoBook_ASUSLaptop X513EQ_S513EQ</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">中央處理器</td>
+      <td style="text-align: left">11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">處理器核心</td>
+      <td style="text-align: left">4 Cores/ 8 Threads</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">系統記憶體</td>
+      <td style="text-align: left">16GB DDR4 3200MHz</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">圖形處理器</td>
+      <td style="text-align: left">Intel(R) Iris(R) Xe Graphics 1.0GB</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">硬碟存儲器</td>
+      <td style="text-align: left">NVMe INTEL SSDPEKNW512GB</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">作業系統</td>
+      <td style="text-align: left">Microsoft Windows 11 家用版</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">安裝日期</td>
+      <td style="text-align: left">2023年12月05日 11:43:46</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">BIOS</td>
+      <td style="text-align: left">vX513EQ.318 (American Megatrends Intenational, LLC.)</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="電腦製造商預裝軟體">電腦製造商預裝軟體</h2>
+<h4 id="realtekaudiocontrol">RealtekAudioControl</h4>
+<blockquote>
+  <p>RealtekSemiconductorCorp<br />
+評分： ⚪⚪⚪⚪⚪<br />
+描述：電腦上所使用的瑞昱音效卡的必要軟體，刪除將會無法控制音訊的輸入輸出功能，且該程式沒有廣告或是占用過多資源的疑慮。</p>
+</blockquote>
+
+<h4 id="intel-顯示控制面板">Intel 顯示控制面板</h4>
+<blockquote>
+  <p>AppUp<br />
+評分： ⚪⚪⚪⚪⚪<br />
+描述：使用 Intel 顯卡需要的控制面板，移除會導致無法調整設定。</p>
+</blockquote>
+
+<h4 id="dts-audio-processing">DTS Audio Processing</h4>
+<blockquote>
+  <p>DTSInc<br />
+評分： ⚪⚪⚪⚪⚪<br />
+描述：音效卡的設定軟體，移除會無法使用空間音效等功能，不建議移除。</p>
+</blockquote>
+
+<h4 id="microsoft-teams">Microsoft Teams</h4>
+<blockquote>
+  <p>MicrosoftTeams<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：微軟的視訊會議軟體，不須使用可以進行移除。</p>
+</blockquote>
+
+<h4 id="mcafee-security">McAfee Security</h4>
+<blockquote>
+  <p>5A894077<br />
+評分： 🔴🔴🔴🔴🔴<br />
+描述：華碩筆電預裝的防毒軟體，會占用系統資源，且 Windows 內建的 Windows Defender 已經足夠使用，不需要額外安裝防毒軟體。</p>
+</blockquote>
+
+<h4 id="myasus">MyASUS</h4>
+<blockquote>
+  <p>B9ECED6F<br />
+評分： ⚪⚪⚪⚪⚪<br />
+描述：華碩筆電的控制軟體，建議保留。</p>
+</blockquote>
+
+<h4 id="mcafee-livesafe">McAfee LiveSafe</h4>
+<blockquote>
+  <p>McAfee<br />
+評分： 🔴🔴🔴🔴🔴<br />
+描述：McAfee 防毒軟體，通常由你的電腦製造商裝入你的電腦。且 Windows 內已經有安裝防毒軟體，不需要另外安裝其他軟體，並且試用期過後還要另外付費購買，還會造成系統資源的佔用。</p>
+</blockquote>
+
+<h4 id="mcafee-webadvisor">McAfee WebAdvisor</h4>
+<blockquote>
+  <p>McAfee<br />
+評分： 🔴🔴🔴🔴🔴<br />
+描述：McAfee 瀏覽器防毒軟體，通常由你的電腦製造商裝入你的電腦。且 Windows 內已經有安裝防毒軟體，不需要另外安裝其他軟體，並且試用期過後還要另外付費購買，還會造成系統資源的佔用。</p>
+</blockquote>
+
+<h2 id="microsoft-預裝軟體">Microsoft 預裝軟體</h2>
+<h4 id="cortana">Cortana</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴🔴🔴⚪⚪<br />
+描述：微軟的內建語音助理，繁體中文無法使用且會占用硬碟空間。</p>
+</blockquote>
+
+<h4 id="microsoft-todos">Microsoft Todos</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：微軟的備忘錄軟體，不需要可以移除節省硬碟空間</p>
+</blockquote>
+
+<h4 id="微軟接龍">微軟接龍</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴🔴🔴⚪⚪<br />
+描述：預裝的接龍遊戲，內部有廣告及付費選項，如果想要玩接龍可以下載 Win7 的舊版接龍，體驗較順暢且無廣告</p>
+</blockquote>
+
+<h4 id="microsoft-office-hub">Microsoft Office Hub</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：不需要用到的軟體，內部只是提供你付費購買 Office 365 的連結，並不具備 Office 本身的功能，不需要可以移除以節省硬碟空間。</p>
+</blockquote>
+
+<h4 id="clipchamp">Clipchamp</h4>
+<blockquote>
+  <p>Clipchamp<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：微軟收購的影片剪輯軟體，且內部有付費選項，功能也較陽春，如果不需要可以移除節省硬碟空間</p>
+</blockquote>
+
+<h4 id="outlook-for-windows">Outlook for Windows</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：Windows 內建的電子郵件收發軟體，不需要使用的話可以移除以節省硬碟空間。</p>
+</blockquote>
+
+<h4 id="mixed-reality-portal">Mixed Reality Portal</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴🔴⚪⚪⚪<br />
+描述：微軟的 MR 軟體，大部分人用不到，可以進行移除，</p>
+</blockquote>
+
+<h4 id="skype">Skype</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：內建的視訊通話軟體，用不到可以進行移除。</p>
+</blockquote>
+
+<h4 id="microsoft-messaging">Microsoft Messaging</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：微軟的訊息傳送程式，用不到可以移除</p>
+</blockquote>
+
+<h4 id="microsoft-oneconnect">Microsoft OneConnect</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴🔴🔴⚪⚪<br />
+描述：微軟的付費熱點應用程式，建議移除。</p>
+</blockquote>]]></content><author><name>由 Jack Cheng 上傳</name></author><category term="ASUS" /><category term="zheng990023@gmail.com" /><summary type="html"><![CDATA[總分：84/100]]></summary></entry><entry><title type="html">ZenBook UX482EGR_UX482EGR</title><link href="/jekyll-theme-yat/asus/2023/12/10/190816-chengju8678@gmail.com.html" rel="alternate" type="text/html" title="ZenBook UX482EGR_UX482EGR" /><published>2023-12-10T00:00:00+00:00</published><updated>2023-12-10T00:00:00+00:00</updated><id>/jekyll-theme-yat/asus/2023/12/10/190816-chengju8678@gmail.com</id><content type="html" xml:base="/jekyll-theme-yat/asus/2023/12/10/190816-chengju8678@gmail.com.html"><![CDATA[<h2>總分：<font color="orange">78</font>/100</h2>
+
+<h2 id="硬體資訊">硬體資訊</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">項目</th>
+      <th style="text-align: left">資訊</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">製造商</td>
+      <td style="text-align: left">ASUSTeK COMPUTER INC.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">電腦型號</td>
+      <td style="text-align: left">ZenBook UX482EGR_UX482EGR</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">中央處理器</td>
+      <td style="text-align: left">11th Gen Intel(R) Core(TM) i7-1195G7 @ 2.90GHz</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">處理器核心</td>
+      <td style="text-align: left">4 Cores/ 8 Threads</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">系統記憶體</td>
+      <td style="text-align: left">32GB Unknown 4267MHz</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">圖形處理器</td>
+      <td style="text-align: left">NVIDIA GeForce MX450 2.0GB</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">硬碟存儲器</td>
+      <td style="text-align: left">NVME WDC PC SN730 SDBPNTY-1T00-1102</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">作業系統</td>
+      <td style="text-align: left">Microsoft Windows 11 家用版</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">安裝日期</td>
+      <td style="text-align: left">2023年12月05日 13:21:03</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">BIOS</td>
+      <td style="text-align: left">UX482EGR.209 (American Megatrends International, LLC.)</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="電腦製造商預裝軟體">電腦製造商預裝軟體</h2>
+<h4 id="realtekaudiocontrol">RealtekAudioControl</h4>
+<blockquote>
+  <p>RealtekSemiconductorCorp<br />
+評分： ⚪⚪⚪⚪⚪<br />
+描述：電腦上所使用的瑞昱音效卡的必要軟體，刪除將會無法控制音訊的輸入輸出功能，且該程式沒有廣告或是占用過多資源的疑慮。</p>
+</blockquote>
+
+<h4 id="intel-顯示控制面板">Intel 顯示控制面板</h4>
+<blockquote>
+  <p>AppUp<br />
+評分： ⚪⚪⚪⚪⚪<br />
+描述：使用 Intel 顯卡需要的控制面板，移除會導致無法調整設定。</p>
+</blockquote>
+
+<h4 id="dts-audio-processing">DTS Audio Processing</h4>
+<blockquote>
+  <p>DTSInc<br />
+評分： ⚪⚪⚪⚪⚪<br />
+描述：音效卡的設定軟體，移除會無法使用空間音效等功能，不建議移除。</p>
+</blockquote>
+
+<h4 id="microsoft-teams">Microsoft Teams</h4>
+<blockquote>
+  <p>MicrosoftTeams<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：微軟的視訊會議軟體，不須使用可以進行移除。</p>
+</blockquote>
+
+<h4 id="corel-multi-camera-capture-and-editing">Corel Multi Camera Capture and Editing</h4>
+<blockquote>
+  <p>CorelCorp<br />
+評分： 🔴🔴🔴⚪⚪<br />
+描述：華碩筆電預裝的多攝影機錄影軟體，且為試用版，會通知付費，如不需要使用建議移除。</p>
+</blockquote>
+
+<h4 id="mcafee-security">McAfee Security</h4>
+<blockquote>
+  <p>5A894077<br />
+評分： 🔴🔴🔴🔴🔴<br />
+描述：華碩筆電預裝的防毒軟體，會占用系統資源，且 Windows 內建的 Windows Defender 已經足夠使用，不需要額外安裝防毒軟體。</p>
+</blockquote>
+
+<h4 id="myasus">MyASUS</h4>
+<blockquote>
+  <p>B9ECED6F<br />
+評分： ⚪⚪⚪⚪⚪<br />
+描述：華碩筆電的控制軟體，建議保留。</p>
+</blockquote>
+
+<h4 id="mcafee-livesafe">McAfee LiveSafe</h4>
+<blockquote>
+  <p>McAfee<br />
+評分： 🔴🔴🔴🔴🔴<br />
+描述：McAfee 防毒軟體，通常由你的電腦製造商裝入你的電腦。且 Windows 內已經有安裝防毒軟體，不需要另外安裝其他軟體，並且試用期過後還要另外付費購買，還會造成系統資源的佔用。</p>
+</blockquote>
+
+<h4 id="mcafee-webadvisor">McAfee WebAdvisor</h4>
+<blockquote>
+  <p>McAfee<br />
+評分： 🔴🔴🔴🔴🔴<br />
+描述：McAfee 瀏覽器防毒軟體，通常由你的電腦製造商裝入你的電腦。且 Windows 內已經有安裝防毒軟體，不需要另外安裝其他軟體，並且試用期過後還要另外付費購買，還會造成系統資源的佔用。</p>
+</blockquote>
+
+<h4 id="kkbox">KKBOX</h4>
+<blockquote>
+  <p>2DE213C9<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：Asus 安裝的 KKBOX 廣告程式</p>
+</blockquote>
+
+<h4 id="alexa">Alexa</h4>
+<blockquote>
+  <p>57540AMZNMobileLLC<br />
+評分： 🔴🔴⚪⚪⚪<br />
+描述：華碩安裝的 Alexa 廣告程式</p>
+</blockquote>
+
+<h4 id="screen-pad-master">Screen Pad Master</h4>
+<blockquote>
+  <p>B9ECED6F<br />
+評分： ⚪⚪⚪⚪⚪<br />
+描述：華碩的 Screen Pad 應用程式</p>
+</blockquote>
+
+<h2 id="microsoft-預裝軟體">Microsoft 預裝軟體</h2>
+<h4 id="cortana">Cortana</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴🔴🔴⚪⚪<br />
+描述：微軟的內建語音助理，繁體中文無法使用且會占用硬碟空間。</p>
+</blockquote>
+
+<h4 id="microsoft-todos">Microsoft Todos</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：微軟的備忘錄軟體，不需要可以移除節省硬碟空間</p>
+</blockquote>
+
+<h4 id="微軟接龍">微軟接龍</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴🔴🔴⚪⚪<br />
+描述：預裝的接龍遊戲，內部有廣告及付費選項，如果想要玩接龍可以下載 Win7 的舊版接龍，體驗較順暢且無廣告</p>
+</blockquote>
+
+<h4 id="microsoft-office-hub">Microsoft Office Hub</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：不需要用到的軟體，內部只是提供你付費購買 Office 365 的連結，並不具備 Office 本身的功能，不需要可以移除以節省硬碟空間。</p>
+</blockquote>
+
+<h4 id="clipchamp">Clipchamp</h4>
+<blockquote>
+  <p>Clipchamp<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：微軟收購的影片剪輯軟體，且內部有付費選項，功能也較陽春，如果不需要可以移除節省硬碟空間</p>
+</blockquote>
+
+<h4 id="spotify">Spotify</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴🔴⚪⚪⚪<br />
+描述：Windows 預裝的廣告軟體，建議移除。</p>
+</blockquote>]]></content><author><name>由 吳承儒 上傳</name></author><category term="ASUS" /><category term="chengju8678@gmail.com" /><summary type="html"><![CDATA[總分：78/100]]></summary></entry><entry><title type="html">ASUS TUF Gaming A15 FA506II_FA506II</title><link href="/jekyll-theme-yat/asus/2023/12/10/215915-x9930707@gmail.com.html" rel="alternate" type="text/html" title="ASUS TUF Gaming A15 FA506II_FA506II" /><published>2023-12-10T00:00:00+00:00</published><updated>2023-12-10T00:00:00+00:00</updated><id>/jekyll-theme-yat/asus/2023/12/10/215915-x9930707@gmail.com</id><content type="html" xml:base="/jekyll-theme-yat/asus/2023/12/10/215915-x9930707@gmail.com.html"><![CDATA[<h2>總分：<font color="green">98</font>/100</h2>
+
+<h2 id="硬體資訊">硬體資訊</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">項目</th>
+      <th style="text-align: left">資訊</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">製造商</td>
+      <td style="text-align: left">ASUSTeK COMPUTER INC.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">電腦型號</td>
+      <td style="text-align: left">ASUS TUF Gaming A15 FA506II_FA506II</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">中央處理器</td>
+      <td style="text-align: left">AMD Ryzen 7 4800H with Radeon Graphics</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">處理器核心</td>
+      <td style="text-align: left">8 Cores/ 16 Threads</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">系統記憶體</td>
+      <td style="text-align: left">16GB DDR4 3200MHz</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">圖形處理器</td>
+      <td style="text-align: left">NVIDIA GeForce GTX 1650 Ti 4.0GB</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">硬碟存儲器</td>
+      <td style="text-align: left">Micron_2210_MTFDHBA512QFD</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">作業系統</td>
+      <td style="text-align: left">Microsoft Windows 11 Pro</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">安裝日期</td>
+      <td style="text-align: left">2022年11月29日 02:36:12</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">BIOS</td>
+      <td style="text-align: left">vFA506II.316 (American Megatrends Inc.)</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="電腦製造商預裝軟體">電腦製造商預裝軟體</h2>
+<h4 id="amd-radeon-software">AMD Radeon Software</h4>
+<blockquote>
+  <p>AdvancedMicroDevicesInc-2<br />
+評分： ⚪⚪⚪⚪⚪<br />
+描述：AMD 顯示卡的必要軟體，如果沒有安裝將無法正常調整顯示設定。</p>
+</blockquote>
+
+<h4 id="realtekaudiocontrol">RealtekAudioControl</h4>
+<blockquote>
+  <p>RealtekSemiconductorCorp<br />
+評分： ⚪⚪⚪⚪⚪<br />
+描述：電腦上所使用的瑞昱音效卡的必要軟體，刪除將會無法控制音訊的輸入輸出功能，且該程式沒有廣告或是占用過多資源的疑慮。</p>
+</blockquote>
+
+<h4 id="microsoft-teams">Microsoft Teams</h4>
+<blockquote>
+  <p>MicrosoftTeams<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：微軟的視訊會議軟體，不須使用可以進行移除。</p>
+</blockquote>
+
+<h4 id="myasus">MyASUS</h4>
+<blockquote>
+  <p>B9ECED6F<br />
+評分： ⚪⚪⚪⚪⚪<br />
+描述：華碩筆電的控制軟體，建議保留。</p>
+</blockquote>
+
+<h4 id="armoury-crate">Armoury Crate</h4>
+<blockquote>
+  <p>Asus<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：華碩筆電的控制軟體，建議保留，但是內部有廣告。</p>
+</blockquote>
+
+<h2 id="microsoft-預裝軟體">Microsoft 預裝軟體</h2>
+<h4 id="cortana">Cortana</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴🔴🔴⚪⚪<br />
+描述：微軟的內建語音助理，繁體中文無法使用且會占用硬碟空間。</p>
+</blockquote>
+
+<h4 id="microsoft-todos">Microsoft Todos</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：微軟的備忘錄軟體，不需要可以移除節省硬碟空間</p>
+</blockquote>
+
+<h4 id="微軟接龍">微軟接龍</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴🔴🔴⚪⚪<br />
+描述：預裝的接龍遊戲，內部有廣告及付費選項，如果想要玩接龍可以下載 Win7 的舊版接龍，體驗較順暢且無廣告</p>
+</blockquote>
+
+<h4 id="microsoft-office-hub">Microsoft Office Hub</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：不需要用到的軟體，內部只是提供你付費購買 Office 365 的連結，並不具備 Office 本身的功能，不需要可以移除以節省硬碟空間。</p>
+</blockquote>
+
+<h4 id="clipchamp">Clipchamp</h4>
+<blockquote>
+  <p>Clipchamp<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：微軟收購的影片剪輯軟體，且內部有付費選項，功能也較陽春，如果不需要可以移除節省硬碟空間</p>
+</blockquote>
+
+<h4 id="onedrive">OneDrive</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴🔴⚪⚪⚪<br />
+描述：微軟的雲端軟體，會自動將資料備份到雲端上，但是容量需付費購買，不需要可以移除。</p>
+</blockquote>
+
+<h4 id="mixed-reality-portal">Mixed Reality Portal</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴🔴⚪⚪⚪<br />
+描述：微軟的 MR 軟體，大部分人用不到，可以進行移除，</p>
+</blockquote>
+
+<h4 id="onenote">OneNote</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：微軟的預裝筆記軟體，用不到可以進行移除。</p>
+</blockquote>
+
+<h4 id="skype">Skype</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：內建的視訊通話軟體，用不到可以進行移除。</p>
+</blockquote>
+
+<h4 id="微軟廣告模組">微軟廣告模組</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴🔴🔴⚪⚪<br />
+描述：微軟廣告模組(無法移除為正常現象)</p>
+</blockquote>
+
+<h4 id="microsoft-messaging">Microsoft Messaging</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：微軟的訊息傳送程式，用不到可以移除</p>
+</blockquote>]]></content><author><name>由 thect 上傳</name></author><category term="ASUS" /><category term="x9930707@gmail.com" /><summary type="html"><![CDATA[總分：98/100]]></summary></entry><entry><title type="html">ROG Strix G713PV_G713PV</title><link href="/jekyll-theme-yat/asus/2023/12/09/192752-RoxyChen0422@gmail.com.html" rel="alternate" type="text/html" title="ROG Strix G713PV_G713PV" /><published>2023-12-09T00:00:00+00:00</published><updated>2023-12-09T00:00:00+00:00</updated><id>/jekyll-theme-yat/asus/2023/12/09/192752-RoxyChen0422@gmail.com</id><content type="html" xml:base="/jekyll-theme-yat/asus/2023/12/09/192752-RoxyChen0422@gmail.com.html"><![CDATA[<h2>總分：<font color="green">98</font>/100</h2>
+
+<h2 id="硬體資訊">硬體資訊</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">項目</th>
+      <th style="text-align: left">資訊</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">製造商</td>
+      <td style="text-align: left">ASUSTeK COMPUTER INC.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">電腦型號</td>
+      <td style="text-align: left">ROG Strix G713PV_G713PV</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">中央處理器</td>
+      <td style="text-align: left">AMD Ryzen 9 7945HX with Radeon Graphics</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">處理器核心</td>
+      <td style="text-align: left">16 Cores/ 32 Threads</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">系統記憶體</td>
+      <td style="text-align: left">16GB DDR5 4800MHz</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">圖形處理器</td>
+      <td style="text-align: left">AMD Radeon(TM) 610M 0.5GB</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">硬碟存儲器</td>
+      <td style="text-align: left">Micron_2400_MTFDKBA512QFM</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">作業系統</td>
+      <td style="text-align: left">Microsoft Windows 11 家用版</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">安裝日期</td>
+      <td style="text-align: left">2023年04月17日 07:41:51</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">BIOS</td>
+      <td style="text-align: left">vG713PV.327 (American Megatrends International, LLC.)</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="電腦製造商預裝軟體">電腦製造商預裝軟體</h2>
+<h4 id="realtekaudiocontrol">RealtekAudioControl</h4>
+<blockquote>
+  <p>RealtekSemiconductorCorp<br />
+評分： ⚪⚪⚪⚪⚪<br />
+描述：電腦上所使用的瑞昱音效卡的必要軟體，刪除將會無法控制音訊的輸入輸出功能，且該程式沒有廣告或是占用過多資源的疑慮。</p>
+</blockquote>
+
+<h4 id="microsoft-teams">Microsoft Teams</h4>
+<blockquote>
+  <p>MicrosoftTeams<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：微軟的視訊會議軟體，不須使用可以進行移除。</p>
+</blockquote>
+
+<h4 id="myasus">MyASUS</h4>
+<blockquote>
+  <p>B9ECED6F<br />
+評分： ⚪⚪⚪⚪⚪<br />
+描述：華碩筆電的控制軟體，建議保留。</p>
+</blockquote>
+
+<h4 id="armoury-crate">Armoury Crate</h4>
+<blockquote>
+  <p>Asus<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：華碩筆電的控制軟體，建議保留，但是內部有廣告。</p>
+</blockquote>
+
+<h2 id="microsoft-預裝軟體">Microsoft 預裝軟體</h2>
+<h4 id="cortana">Cortana</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴🔴🔴⚪⚪<br />
+描述：微軟的內建語音助理，繁體中文無法使用且會占用硬碟空間。</p>
+</blockquote>
+
+<h4 id="microsoft-todos">Microsoft Todos</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：微軟的備忘錄軟體，不需要可以移除節省硬碟空間</p>
+</blockquote>
+
+<h4 id="微軟接龍">微軟接龍</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴🔴🔴⚪⚪<br />
+描述：預裝的接龍遊戲，內部有廣告及付費選項，如果想要玩接龍可以下載 Win7 的舊版接龍，體驗較順暢且無廣告</p>
+</blockquote>
+
+<h4 id="microsoft-office-hub">Microsoft Office Hub</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：不需要用到的軟體，內部只是提供你付費購買 Office 365 的連結，並不具備 Office 本身的功能，不需要可以移除以節省硬碟空間。</p>
+</blockquote>
+
+<h4 id="clipchamp">Clipchamp</h4>
+<blockquote>
+  <p>Clipchamp<br />
+評分： 🔴⚪⚪⚪⚪<br />
+描述：微軟收購的影片剪輯軟體，且內部有付費選項，功能也較陽春，如果不需要可以移除節省硬碟空間</p>
+</blockquote>
+
+<h4 id="onedrive">OneDrive</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴🔴⚪⚪⚪<br />
+描述：微軟的雲端軟體，會自動將資料備份到雲端上，但是容量需付費購買，不需要可以移除。</p>
+</blockquote>
+
+<h4 id="spotify">Spotify</h4>
+<blockquote>
+  <p>Microsoft<br />
+評分： 🔴🔴⚪⚪⚪<br />
+描述：Windows 預裝的廣告軟體，建議移除。</p>
+</blockquote>]]></content><author><name>由 Roxy Chen 上傳</name></author><category term="ASUS" /><category term="RoxyChen0422@gmail.com" /><summary type="html"><![CDATA[總分：98/100]]></summary></entry></feed>
