@@ -155,6 +155,7 @@ header_pages:
    - byManufacturer.html
    - byUploader.html
    - byYear.html
+   - download.html
 
 # Page default value
 defaults:
@@ -169,7 +170,7 @@ defaults:
 # banner:
 #   video: null             # Video banner source
 #   loop: true              # Video loop
-#   volume: 0               # Video volume (100% is 1.0)
+#   volume: 0               # thVideo volume (100% is 1.0)
 #   start_at: 0             # Video start time
 #   image: null             # Image banner source
 #   opacity: 1.0            # Banner opacity (100% is 1.0)
